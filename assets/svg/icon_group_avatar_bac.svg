@@ -1,0 +1,33 @@
+<svg id="icon_group_avatar_bac" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="117" viewBox="0 0 90 117">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e1050"/>
+      <stop offset="0.458" stop-color="#5b209f"/>
+      <stop offset="1" stop-color="#5b209f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.763" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7c61d1"/>
+      <stop offset="0.241" stop-color="#a492df"/>
+      <stop offset="0.395" stop-color="#a795e8"/>
+      <stop offset="1" stop-color="#6c53c0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5cbfd"/>
+      <stop offset="0.426" stop-color="#fff"/>
+      <stop offset="1" stop-color="#c0b5e7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="1.054" y1="0.065" x2="0.082" y2="0.893" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1c5fd"/>
+      <stop offset="0.151" stop-color="#d0c4fc"/>
+      <stop offset="1" stop-color="#826ee9"/>
+    </linearGradient>
+  </defs>
+  <path id="f" d="M2,0H87V15L44.5,27.5,2,15Z" fill="#d3c7ff" fill-rule="evenodd"/>
+  <rect id="g" width="69" height="6" rx="3" transform="translate(10 5)" fill="url(#linear-gradient)"/>
+  <path id="a" d="M14,31.382v0L14,0H76V31.378a45,45,0,0,0-62,0Z" transform="translate(0 8)" fill="url(#linear-gradient-2)"/>
+  <path id="b" d="M64,23.2h0a44.738,44.738,0,0,0-10-3.3V0H64V23.2Z" transform="translate(0 8)" fill="url(#linear-gradient-3)"/>
+  <path id="c" d="M26,23.2V0H36V19.9a44.736,44.736,0,0,0-10,3.3Z" transform="translate(0 8)" fill="url(#linear-gradient-3)"/>
+  <path id="d" d="M45,90A45.012,45.012,0,0,1,27.484,3.536,45.012,45.012,0,0,1,62.516,86.464,44.718,44.718,0,0,1,45,90ZM46,9A37.01,37.01,0,0,0,31.6,80.092,37.009,37.009,0,0,0,60.4,11.908,36.768,36.768,0,0,0,46,9Z" transform="translate(0 27)" fill="url(#linear-gradient-5)"/>
+  <path id="e" d="M38,75A36.891,36.891,0,0,1,11.342,63.658,37,37,0,0,0,63.658,11.342,36.989,36.989,0,0,1,38,75Z" transform="translate(8 35)" fill="#d0c5ff"/>
+  <path id="i" d="M11.3,63.622a37,37,0,1,1,52.354-52.28A37,37,0,0,0,11.305,63.62Z" transform="translate(8 35)" fill="#8a74d4"/>
+</svg>

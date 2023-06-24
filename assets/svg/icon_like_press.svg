@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_xihuan_press</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-471.000000, -2612.000000)" fill="#F92770">
+            <g id="热门推文" transform="translate(360.000000, 1870.000000)">
+                <g id="免费图片推文" transform="translate(0.000000, 427.000000)">
+                    <g id="点赞备份" transform="translate(20.000000, 314.000000)">
+                        <g id="喜欢/选中" transform="translate(91.500000, 1.000000)">
+                            <g id="喜欢">
+                                <g id="编组-5">
+                                    <path d="M17.8485009,2 C21.0785388,2 23.6970019,4.61846307 23.6970019,7.84850095 C23.6970019,14.3085767 14.8530542,22 12,22 C9.14694577,22 0.302998102,14.3085767 0.302998102,7.84850095 L0.302998102,7.84850095 L0.307032078,7.62924234 C0.422335047,4.50079453 2.99487112,2 6.15149905,2 C9.38153693,2 12,4.61846307 12,7.84850095 L12,7.84850095 L12.004034,7.62924234 C12.1193369,4.50079453 14.691873,2 17.8485009,2 Z" id="ic_xihuan_press"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

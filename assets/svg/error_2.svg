@@ -1,0 +1,26 @@
+<svg width="137" height="134" viewBox="0 0 137 134" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="36.766%" id="a">
+            <stop stop-color="#3B3F4D" offset="0%"/>
+            <stop stop-color="#262932" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.328%" id="b">
+            <stop stop-color="#575C6F" offset="0%"/>
+            <stop stop-color="#313540" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(-2 2)" fill="none" fill-rule="evenodd">
+        <ellipse fill="url(#a)" opacity=".5" cx="70.5" cy="137.5" rx="70.5" ry="21.5"/>
+        <g transform="translate(10)">
+            <circle cx="41.36" cy="41.582" r="41" transform="translate(19 39)" fill="url(#b)"/>
+            <path d="M23.47 62.667a41.605 41.605 0 0 0-.891 1.964c-4.475-.249-8.134-.138-10.755.32-1.336.234-2.355.551-3.023.92-.48.263-.684.488-.732.666-.048.179.017.476.3.944.395.653 1.119 1.437 2.16 2.308 2.223 1.86 5.723 3.981 10.255 6.203l1.024.496c9.35 4.465 22.144 9.014 36.074 12.746 14.446 3.87 28.272 6.37 38.749 7.082 5.036.341 9.127.254 11.983-.245 1.337-.234 2.356-.551 3.024-.92.48-.263.684-.488.732-.666.048-.178-.017-.476-.3-.944-.395-.653-1.119-1.437-2.16-2.307-1.991-1.667-5.006-3.542-8.87-5.512.09-.71.16-1.427.213-2.148 8.897 4.439 13.987 8.599 13.217 11.473-1.578 5.889-27.146 4.154-57.107-3.874C27.4 83.144 4.39 71.863 5.969 65.975c.778-2.905 7.397-3.955 17.502-3.308z" fill="#515564" fill-rule="nonzero"/>
+            <circle fill="#52576A" opacity=".5" cx="5.5" cy="102.5" r="5.5"/>
+            <circle fill="#52576A" cx="119" cy="69" r="4"/>
+            <g transform="translate(100)">
+                <path d="M24 23C24 10.297 13.703 0 1 0" stroke="#454959" stroke-width="3" stroke-linecap="round"/>
+                <path d="M17 23C17 14.163 9.837 7 1 7M10 24a9 9 0 0 0-9-9" stroke="#454959" stroke-width="3" stroke-linecap="round"/>
+                <circle fill="#53586A" cx="1.5" cy="22.5" r="1.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

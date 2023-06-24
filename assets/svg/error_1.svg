@@ -1,0 +1,55 @@
+<svg width="137" height="105" viewBox="0 0 137 105" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="36.766%" id="a">
+            <stop stop-color="#3B3F4D" offset="0%"/>
+            <stop stop-color="#262932" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="109.64%" id="b">
+            <stop stop-color="#212244" offset="0%"/>
+            <stop stop-color="#4B4C81" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.328%" id="d">
+            <stop stop-color="#313540" offset="0%"/>
+            <stop stop-color="#575C6F" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="109.64%" id="f">
+            <stop stop-color="#4B4C81" offset="0%"/>
+            <stop stop-color="#212244" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.328%" id="g">
+            <stop stop-color="#575C6F" offset="0%"/>
+            <stop stop-color="#313540" offset="100%"/>
+        </linearGradient>
+        <rect id="c" x="13" y="0" width="66" height="87" rx="5"/>
+        <rect id="e" x="0" y="10" width="66" height="87" rx="5"/>
+    </defs>
+    <g transform="translate(-2)" fill="none" fill-rule="evenodd">
+        <ellipse fill="url(#a)" opacity=".5" cx="70.5" cy="110.5" rx="70.5" ry="21.5"/>
+        <g transform="translate(35)">
+            <use fill="url(#b)" xlink:href="#c"/>
+            <use fill="url(#d)" xlink:href="#c"/>
+            <use fill="#D8D8D8" xlink:href="#e"/>
+            <use fill="url(#f)" xlink:href="#e"/>
+            <use fill="url(#g)" xlink:href="#e"/>
+            <g transform="translate(10 23)" fill="#666A7C">
+                <rect width="12" height="12" rx="6"/>
+                <rect x="19" width="25" height="4" rx="2"/>
+                <rect x="19" y="7.5" width="16" height="4" rx="2"/>
+            </g>
+            <g opacity=".5" transform="translate(10 44)" fill="#666A7C">
+                <rect width="12" height="12" rx="6"/>
+                <rect x="19" width="25" height="4" rx="2"/>
+                <rect x="19" y="7.5" width="16" height="4" rx="2"/>
+            </g>
+            <g opacity=".3" transform="translate(10 65)" fill="#666A7C">
+                <rect width="12" height="12" rx="6"/>
+                <rect x="19" width="25" height="4" rx="2"/>
+                <rect x="19" y="7.5" width="16" height="4" rx="2"/>
+            </g>
+            <g fill="#71768B">
+                <path d="M66.5 39C80.031 39 91 49.969 91 63.5c0 7.97-3.805 15.05-9.697 19.524l8.411 14.57a4 4 0 0 1-6.928 4L74.22 86.758A24.476 24.476 0 0 1 66.5 88C52.969 88 42 77.031 42 63.5S52.969 39 66.5 39zm0 7C56.835 46 49 53.835 49 63.5S56.835 81 66.5 81 84 73.165 84 63.5 76.165 46 66.5 46z"/>
+            </g>
+            <circle fill="#363946" opacity=".9" cx="66.5" cy="63.5" r="17.5"/>
+        </g>
+    </g>
+</svg>

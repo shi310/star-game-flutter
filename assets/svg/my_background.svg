@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="220px" viewBox="0 0 375 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>tp_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="179"></rect>
+        <path d="M0,0 L0,211.666667 C0,211.666667 93.75,220 187.5,220 C281.25,220 375,211.666667 375,211.666667 L375,0 L0,0 Z" id="path-3"></path>
+        <linearGradient x1="9.10833124%" y1="24.9291759%" x2="86.9405077%" y2="85.31652%" id="linearGradient-5">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#0C7DFF" offset="46.5270369%"></stop>
+            <stop stop-color="#4B9FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.53190427%" y1="18.9969915%" x2="58.5629975%" y2="53.8309655%" id="linearGradient-6">
+            <stop stop-color="#479DFF" offset="0%"></stop>
+            <stop stop-color="#0C7DFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L0,32.6666667 C0,32.6666667 93.75,41 187.5,41 C281.25,41 375,32.6666667 375,32.6666667 L375,0 L0,0 Z" id="path-7"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的">
+            <g id="个人主页">
+                <g id="tp_1">
+                    <g id="tp_grbg1">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#000000" xlink:href="#path-1"></use>
+                        <g id="tp_wodebg_1" mask="url(#mask-2)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="蒙版" fill="#0C7DFF" xlink:href="#path-3"></use>
+                            <circle id="椭圆形" fill="url(#linearGradient-5)" opacity="0.300000012" mask="url(#mask-4)" cx="22.5" cy="-8.5" r="187.5"></circle>
+                            <circle id="椭圆形备份" fill="url(#linearGradient-6)" opacity="0.300000012" mask="url(#mask-4)" cx="359" cy="242" r="158"></circle>
+                        </g>
+                    </g>
+                    <g id="tp_grbg2" transform="translate(0.000000, 179.000000)">
+                        <g id="tp_wodebg_1备份">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="蒙版" fill="#0C7DFF" xlink:href="#path-7"></use>
+                            <circle id="椭圆形" fill="url(#linearGradient-5)" opacity="0.300000012" mask="url(#mask-8)" cx="22.5" cy="-187.5" r="187.5"></circle>
+                            <circle id="椭圆形备份" fill="url(#linearGradient-6)" opacity="0.300000012" mask="url(#mask-8)" cx="359" cy="63" r="158"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
