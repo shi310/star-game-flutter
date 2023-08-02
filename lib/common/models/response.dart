@@ -2,12 +2,12 @@
 class ResponseModel {
   ResponseModel({
     required this.code,
-    required this.data,
+    this.data,
     required this.message,
   });
 
   int code;
-  Map<String, dynamic> data;
+  Map<String, dynamic>? data;
   String message;
 
   factory ResponseModel.fromJson(Map<String, dynamic> json) => ResponseModel(

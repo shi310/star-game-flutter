@@ -13,4 +13,10 @@ class MyRoutes {
 
   // 俄罗斯方块游戏
   static const tetris = '/tetris';
+
+  // 登陆
+  static const signIn = '/sign_in';
+
+  // 注册
+  static const signUp = '/sign_up';
 }

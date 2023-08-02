@@ -1,4 +1,4 @@
-library view_application;
+library view_game_psz;
 
 export 'binding.dart';
 export 'controller.dart';

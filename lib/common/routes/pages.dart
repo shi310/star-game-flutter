@@ -34,6 +34,20 @@ class AppPages {
       binding: HomeBinding(),
     ),
 
+    // 登陆
+    GetPage(
+      name: MyRoutes.signIn,
+      page: () => const SignInView(),
+      binding: SignInBinding(),
+    ),
+
+    // 注册
+    GetPage(
+      name: MyRoutes.signUp,
+      page: () => const SingUpView(),
+      binding: SingUpBinding(),
+    ),
+
     // 俄罗斯方块
     GetPage(
       name: MyRoutes.tetris,

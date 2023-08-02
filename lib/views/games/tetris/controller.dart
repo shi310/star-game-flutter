@@ -1,9 +1,7 @@
 import 'dart:async';
-
 import 'package:get/get.dart';
 
-import 'package:star_game_flutter/common/common.dart';
-
+import '../../../common/common.dart';
 import 'index.dart';
 
 class TertisController extends GetxController {

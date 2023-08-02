@@ -8,6 +8,9 @@ class UserController extends GetxController {
   // 令牌 token
   var token = SharedService.to.getString(sharedUserTokenKey);
 
+  // salt
+  var salt = '';
+
   // 保存 token
   void setToken(String value) {
     token = value;

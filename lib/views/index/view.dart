@@ -17,10 +17,10 @@ class IndexView extends GetView<IndexController> {
       child: Column(
         children: [
           const SizedBox(height: 20),
-          FilledButton(
+          Obx(() => controller.state.isGetDone?FilledButton(
             onPressed: controller.onTetrisView,
-            child: const Text('俄罗斯方块'),
-          ),
+            child: const Text('立即体验'),
+          ):const Text('正在获取配置信息...')),
         ],
       ),
     );

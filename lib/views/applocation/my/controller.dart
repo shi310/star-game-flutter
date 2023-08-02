@@ -3,8 +3,8 @@ import 'package:get/get.dart';
 import '../../../common/common.dart';
 import 'index.dart';
 
-class HomeController extends GetxController {
-  final state = HomeState();
+class MyController extends GetxController {
+  final state = MyState();
 
   void changeTheme() {
     ConfigController.to.isDarkMode = !ConfigController.to.isDarkMode;
@@ -13,13 +13,5 @@ class HomeController extends GetxController {
       sharedIsDarkModeKey,
       ConfigController.to.isDarkMode,
     );
-  }
-
-  void signIn() {
-    Get.toNamed(MyRoutes.signIn);
-  }
-
-  void signUp() {
-    Get.toNamed(MyRoutes.signUp);
   }
 }

@@ -14,10 +14,13 @@ class DioService extends GetxService {
     baseUrl: baseUrl,
 
     //连接服务器超时时间，单位是秒.
-    connectTimeout: const Duration(minutes: 30),
+    connectTimeout: const Duration(minutes: 60),
 
     // 响应流上前后两次接受到数据的间隔，单位为秒。
-    receiveTimeout: const Duration(minutes: 30),
+    receiveTimeout: const Duration(minutes: 60),
+
+    // 发送数据的超时
+    sendTimeout: const Duration(minutes: 60),
 
     // Http请求头.
     headers: {},

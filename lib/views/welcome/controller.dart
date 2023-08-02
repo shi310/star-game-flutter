@@ -1,5 +1,7 @@
 import 'package:get/get.dart';
-import 'package:star_game_flutter/common/common.dart';
+
+import '../../common/common.dart';
+
 
 class WelcomeController extends GetxController {
   final title = 'Welcome';

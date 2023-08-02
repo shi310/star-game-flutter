@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:star_game_flutter/common/common.dart';
 
 import 'index.dart';
 
@@ -16,15 +15,18 @@ class HomeView extends GetView<HomeController> {
       body: Column(
         children: [
           const Text('Home to star-game'),
-          TextButton(
-              onPressed: () {
-                ConfigController.to.isDarkMode =
-                    !ConfigController.to.isDarkMode;
-                ConfigController.to.changeTheme();
-                SharedService.to.setBool(
-                    sharedIsDarkModeKey, ConfigController.to.isDarkMode);
-              },
-              child: const Text('data'))
+          FilledButton(
+            onPressed: controller.changeTheme,
+            child: const Text('修改主题'),
+          ),
+          FilledButton(
+            onPressed: controller.signIn,
+            child: const Text('立即登陆'),
+          ),
+          FilledButton(
+            onPressed: controller.signUp,
+            child: const Text('立即注册'),
+          ),
         ],
       ),
     );

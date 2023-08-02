@@ -1,4 +1,4 @@
-library view_game_tetris;
+library view_set_password;
 
 export 'binding.dart';
 export 'controller.dart';

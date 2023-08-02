@@ -16,7 +16,7 @@ class SetView extends GetView<SetController> {
       body: Column(
         children: [
           const Text('Set to star-game'),
-          TextButton(
+          FilledButton(
               onPressed: () {
                 ConfigController.to.isDarkMode =
                     !ConfigController.to.isDarkMode;

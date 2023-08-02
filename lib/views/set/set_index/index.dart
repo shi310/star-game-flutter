@@ -1,4 +1,4 @@
-library view_game_tetris;
+library view_set;
 
 export 'binding.dart';
 export 'controller.dart';
