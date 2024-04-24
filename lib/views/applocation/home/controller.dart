@@ -8,6 +8,7 @@ class HomeController extends GetxController {
   final state = HomeState();
 
   void changeTheme() {
+    print('object');
     ConfigController.to.isDarkMode = !ConfigController.to.isDarkMode;
     ConfigController.to.changeTheme();
     SharedService.to.setBool(
